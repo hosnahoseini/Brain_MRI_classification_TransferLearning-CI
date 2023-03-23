@@ -1,4 +1,4 @@
-# Classification of MRI of Brain using Transfer Learning and PyTorch 🧠
+# Classification of Brain MRI using Transfer Learning and PyTorch 🧠
 
 ## About The Project
 In this project, we aim to classify MRI images of the brain using transfer learning and PyTorch. We use a pre-trained ResNet-50 model and change the last layer in different ways to find the best combination that fits our problem.
